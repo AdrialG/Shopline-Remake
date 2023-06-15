@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "914686056580",
+    "project_id": "shopline-remake",
+    "storage_bucket": "shopline-remake.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914686056580:android:8a463979dbaa2ae0948ad1",
+        "android_client_info": {
+          "package_name": "com.adrialg.shopline_remaster.base"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "914686056580-hnl98sg45uj6n8daa5er5n4e0o9d16m3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLCSjdn-Cgqdn9FShii9nT84PtiYZJXbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "914686056580-hnl98sg45uj6n8daa5er5n4e0o9d16m3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
