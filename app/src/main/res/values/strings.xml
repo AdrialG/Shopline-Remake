@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Shopline_remaster</string>
+    <string name="decor">Decor</string>
+    <string name="logo">Logo</string>
+    <string name="sign_in">Sign In</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="shopline">Shopline</string>
 </resources>

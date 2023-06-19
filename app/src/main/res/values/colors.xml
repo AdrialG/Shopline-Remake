@@ -9,5 +9,6 @@
     <color name="white">#FFFFFFFF</color>
     <color name="light_grey">#F4F4F4</color>
     <color name="main_orange">#FA5531</color>
-    <color name="main_orange_light">#FFDFD8</color>
+    <color name="main_orange_semi_light">#FF896F</color>
+    <color name="main_orange_light">#FBE3DD</color>
 </resources>
